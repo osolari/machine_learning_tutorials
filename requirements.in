@@ -1,0 +1,17 @@
+requests
+setuptools>=18.0
+pip-tools
+
+numpy
+scikit-learn
+cvxpy
+cvxopt
+
+pandas
+matplotlib
+seaborn
+plotly
+
+jupyter
+jupyterlab
+jupyter-book
